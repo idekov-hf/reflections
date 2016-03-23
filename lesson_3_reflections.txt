@@ -28,8 +28,10 @@ than editing them online.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-
-    Fill in your answer here
+I could collaborate over Google Drive or Dropbox. I wouldn't have to worry about
+always saving the files I am working on as these services always do that.
+It would be harder to manage the version control the way I wanted to by making
+logical change commits.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
