@@ -12,8 +12,14 @@ errors if it tries to pull changes without an internet connection.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
-
-    Fill in your answer here
+Forks: clones of repositories on Github to your profile.
+Clones: local copies of a repository (can either come from a remote or another
+local repository)
+Branches: a label for your commits. Any branches you create are separate from
+your master branch.
+You would use a Fork when you want to copy someone else's repo to your profile,
+a clone when you want to make a clone of a remote repo to your hard drive and a
+branch when you want to test out a new feature without affecting the main branch
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
