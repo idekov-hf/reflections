@@ -35,5 +35,6 @@ logical change commits.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+When you are working on a new feature or you want other collaborators to check
+your new changes and see if they are suitable to be merged with the master
+branch.
