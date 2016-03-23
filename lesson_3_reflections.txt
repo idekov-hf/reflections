@@ -23,8 +23,8 @@ branch when you want to test out a new feature without affecting the main branch
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
-    Fill in your answer here
+It can be easier to edit files locally through your favorite text editor rather
+than editing them online.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
