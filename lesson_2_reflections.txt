@@ -11,14 +11,27 @@ Value = you are able to group changes into logical commits.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+You only add the files that are part of one logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches can help if you want to work on experimental features of your app without
+affecting the main app itself. Also, branches can help if you want to change the
+language of your app.
+Master branch always works, never breaks.
+Non-master branch does not have to be production quality.
+New branches for every feature or bug fix.
 
 How do the diagrams help you visualize the branch structure?
+They make it easier to see different branches and commits.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The changes in one branch are merged with the changes in the other. We represent
+it this way because the files represented by the two branches are coming together
+to merge into one document that includes all the changes of both branches.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Automatic merging saves you time whereas merging manually gives you flexibility
+to merge two branches the way you want to.
