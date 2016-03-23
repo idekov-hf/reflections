@@ -5,8 +5,10 @@ When you want to have a backup of your files on a server.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
-
-    Fill in your answer here
+Because someone else might have added something to your project that you do not
+want to add to your local repository.
+You might not always have an internet connection so having Git might run into
+errors if it tries to pull changes without an internet connection.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
